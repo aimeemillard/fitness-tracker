@@ -10,10 +10,17 @@ html,
 body,
 .wrapper {
   height: 100%;
+  background-image: url("images/fitness.jpg");
+  background-repeat: no-repeat;
+  background-size: 120%;
+}
 }
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url("images/fitness.jpg");
+  background-repeat: no-repeat;
+  background-size: 120%;
 }
 
 nav {
